@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @jahnavi
+- 👀 I’m interested in java programming
+- 🌱 I’m currently learning angular
+- 💞️ I’m looking to collaborate on intresting projects
